@@ -1,0 +1,25 @@
+{
+  "name": "stylelint-config",
+  "version": "1.0.0",
+  "description": "stylelint config",
+  "author": "sujin-park",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylelint-config",
+    "stylelint-order"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard": "^25.0.0",
+    "stylelint-order": "^5.0.0",
+    "stylelint-prettier": "^2.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "stylelint": "^14.5.1"
+  }
+}
