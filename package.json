@@ -4,6 +4,10 @@
   "description": "stylelint config",
   "author": "sujin-park",
   "main": "index.js",
+  "files": [
+    "order-property.js",
+    "browsers.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
