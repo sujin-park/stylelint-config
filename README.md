@@ -2,9 +2,7 @@
 
 ## Install
 
-```bash
-$ npm install --save --dev @primer/stylelint-config
-```
+TBD...
 
 ## Getting Started
 
